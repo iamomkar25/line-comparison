@@ -1,0 +1,8 @@
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\bin\Debug\line-comparison.exe.config
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\bin\Debug\line-comparison.exe
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\bin\Debug\line-comparison.pdb
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\obj\Debug\line-comparison.csproj.AssemblyReference.cache
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\obj\Debug\line-comparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\obj\Debug\line-comparison.csproj.CoreCompileInputs.cache
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\obj\Debug\line-comparison.exe
+C:\Users\iamomkar\source\repos\line-comparison\line-comparison\obj\Debug\line-comparison.pdb
